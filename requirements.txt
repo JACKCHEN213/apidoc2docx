@@ -1,0 +1,5 @@
+caio==0.9.5
+docx==0.2.4
+pydantic==1.8.2
+python_docx==0.8.11
+tqdm==4.64.0

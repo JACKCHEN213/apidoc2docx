@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apidoc": "^0.26.0",
+    "apidoc-markdown": "^6.0.0"
+  }
+}
